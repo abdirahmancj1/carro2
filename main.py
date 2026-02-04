@@ -1,5 +1,8 @@
 def main():
-    print("Hello from carro2!")
+   x = 12
+   y= 4
+
+   total = x + y
 
 
 if __name__ == "__main__":
